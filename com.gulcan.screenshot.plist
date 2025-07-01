@@ -8,11 +8,11 @@
 
     <key>ProgramArguments</key>
     <array>
-      <string>/Users/gulcandogan/Projects/screenshot-automation/screenshot.sh</string>
+      <string>/Users/gulcandogan/Scripts/screenshot.sh</string>
     </array>
 
     <key>StartInterval</key>
-    <integer>3600</integer>
+    <integer>60</integer>
 
     <key>RunAtLoad</key>
     <true/>
